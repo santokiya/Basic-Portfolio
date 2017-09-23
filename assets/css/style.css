@@ -4,7 +4,7 @@ html{
 	height: 100%
 }
 body{
-	background-image: "regal.png"
+	background-image: assets/images/"regal.png"
 } 
 input[type=text], select, textarea {
     width: 100%; 
